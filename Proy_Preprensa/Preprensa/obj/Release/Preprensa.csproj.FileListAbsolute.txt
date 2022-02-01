@@ -1,0 +1,12 @@
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\bin\Release\Preprensa.exe.config
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\bin\Release\Preprensa.exe
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\bin\Release\Preprensa.pdb
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\bin\Release\Aspose.Cells.dll
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\obj\Release\Preprensa.FrmListarPedidosProduccion.resources
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\obj\Release\Preprensa.FrmRegistrarPedidosProduccion.resources
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\obj\Release\Preprensa.Login.resources
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\obj\Release\Preprensa.MenuPrincipal.resources
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\obj\Release\Preprensa.Properties.Resources.resources
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\obj\Release\Preprensa.csproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\obj\Release\Preprensa.exe
+C:\Users\Brian\Desktop\PREPRENSA\Proy_Preprensa\Preprensa\obj\Release\Preprensa.pdb
